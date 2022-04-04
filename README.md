@@ -37,21 +37,6 @@ Here are some ideas to get you started:
 </div>
   
 <!--START_SECTION:waka-->
-  name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY=<44c2e51f-43f5-4f37-98df-c9a8a9a631fe>
-          GH_TOKEN=<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>    
+  
 <!--END_SECTION:waka-->  
 

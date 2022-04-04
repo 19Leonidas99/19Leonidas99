@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🎓Currently 📚 Studying 📖 Mechatronics 🛠 Engineering ⚙
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=19Leonidas99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FCFCFC&stroke=FFFFFF&fire=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://github.com/19Leonidas99">
@@ -35,4 +36,22 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/mayconleonidas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+<!--START_SECTION:waka-->
+  name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY=<44c2e51f-43f5-4f37-98df-c9a8a9a631fe>
+          GH_TOKEN=<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>    
+<!--END_SECTION:waka-->  
 

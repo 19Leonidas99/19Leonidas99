@@ -28,11 +28,75 @@ Here are some ideas to get you started:
    <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=19leonidas99">
  </a>
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-163-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 112 Contributions in the Year 2022
+ > 
+> 📦 10.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-No activity tracked
+🌞 Morning    36 commits     █████████░░░░░░░░░░░░░░░░   35.64% 
+🌆 Daytime    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
+🌃 Evening    25 commits     ██████░░░░░░░░░░░░░░░░░░░   24.75% 
+🌙 Night      33 commits     ████████░░░░░░░░░░░░░░░░░   32.67%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       28 commits     ███████░░░░░░░░░░░░░░░░░░   27.72% 
+Tuesday      41 commits     ██████████░░░░░░░░░░░░░░░   40.59% 
+Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
+Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
+Saturday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.83% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████████████████░░░░░░░   72.73% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Processing               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+
+ Last Updated on 05/04/2022 11:04:08 UTC
 <!--END_SECTION:waka--> 
 </div>
 

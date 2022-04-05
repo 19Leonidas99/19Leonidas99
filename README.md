@@ -1,12 +1,5 @@
 ### Hi, I'm Maycon Baldoino
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->  
  
 <!--
 **19Leonidas99/19Leonidas99** is a ✨ _secial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +27,9 @@ Here are some ideas to get you started:
     <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=19Leonidas99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FCFCFC&stroke=FFFFFF&fire=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
    <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=19leonidas99">
  </a>
+ <!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--> 
 </div>
 
 <div style="display: inline_block"><br>

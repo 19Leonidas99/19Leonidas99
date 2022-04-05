@@ -22,5 +22,5 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE: "True"
-
+          SYMBOL_VERSION: "2"
           LOCALE: "en"

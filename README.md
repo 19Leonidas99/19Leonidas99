@@ -25,7 +25,9 @@ Here are some ideas to get you started:
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=19Leonidas99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&layout=compact&langs_count=7&theme=dark"/>
     <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=19Leonidas99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FCFCFC&stroke=FFFFFF&fire=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=19leonidas99">
+   <!-- 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=19leonidas99">
+-->
  </a>
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)

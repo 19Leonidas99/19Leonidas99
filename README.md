@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/19Leonidas99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=19Leonidas99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&layout=compact&langs_count=7&theme=dark"/>
+     <img src="https://github.com/19Leonidas99/19Leonidas99/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,5 +38,6 @@ Here are some ideas to get you started:
 </div>
   
 <!--START_SECTION:waka-->
+  <img src="https://github.com/19Leonidas99/19Leonidas99/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 <!--END_SECTION:waka-->  
  

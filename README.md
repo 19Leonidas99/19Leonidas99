@@ -31,7 +31,76 @@ Here are some ideas to get you started:
  </a><br>
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-266-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 115 Contributions in the Year 2022
+ > 
+> 📦 10.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    36 commits     ████████░░░░░░░░░░░░░░░░░   34.62% 
+🌆 Daytime    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+🌃 Evening    25 commits     ██████░░░░░░░░░░░░░░░░░░░   24.04% 
+🌙 Night      33 commits     ████████░░░░░░░░░░░░░░░░░   31.73%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       28 commits     ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+Tuesday      44 commits     ██████████░░░░░░░░░░░░░░░   42.31% 
+Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92% 
+Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
+Saturday     17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
+Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ██████████████████░░░░░░░   72.73% 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Processing               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+
+ Last Updated on 05/04/2022 11:34:16 UTC
 <!--END_SECTION:waka--> 
 </div>
 

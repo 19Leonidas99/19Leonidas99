@@ -16,7 +16,7 @@ jobs:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: windows 10
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:

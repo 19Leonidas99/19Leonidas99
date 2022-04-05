@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=19Leonidas99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&layout=compact&langs_count=7&theme=dark"/>
     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=19Leonidas99&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FCFCFC&stroke=FFFFFF&fire=DD2727&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
+   <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=19Leonidas99&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="My Coding Activity"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

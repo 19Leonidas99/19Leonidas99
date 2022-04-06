@@ -30,8 +30,8 @@ Here are some ideas to get you started:
    <!--
    <img height="280em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&theme=dark" />
    -->
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=19Leonidas99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=19Leonidas99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Leonidas99&layout=compact&langs_count=7&theme=dark"/>
     <img height="250em" width="2000em" src="http://github-readme-streak-stats.herokuapp.com?user=19Leonidas99&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=DD2727&fire=DD2727&currStreakLabel=FFFFFF&sideLabels=FF2D2D"/>
    <!-- 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=19leonidas99">

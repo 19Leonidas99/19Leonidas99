@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  </a><br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,16 +84,17 @@ Sunday       7 commits      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   94.98% 
+Markdown                 0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NLW-Rocketseat           6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
@@ -109,7 +110,7 @@ Processing               1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 17/09/2022 00:40:43 UTC
+ Last Updated on 18/09/2022 00:46:58 UTC
 <!--END_SECTION:waka--> 
 </div>
 

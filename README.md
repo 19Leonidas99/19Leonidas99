@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <ul style="font-size: 1.3em">
   <li>
-   🎓Currently 📚 Studying 📖 Mechatronics 🛠 Engineering ⚙
+   🎓Currently 📚 Studying 📖 python ⚙
   </li>
   <li>
    Passion for Programming

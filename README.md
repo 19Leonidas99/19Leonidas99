@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20thousand%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 > 📦 10.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,7 +107,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 14/11/2024 01:03:34 UTC
+ Last Updated on 15/11/2024 01:07:42 UTC
 <!--END_SECTION:waka--> 
 </div>
 

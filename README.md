@@ -39,8 +39,6 @@ Here are some ideas to get you started:
  </a><br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20thousand%20lines%20of%20code-blue)
@@ -107,7 +105,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/07/2025 01:24:53 UTC
+ Last Updated on 02/07/2025 01:16:56 UTC
 <!--END_SECTION:waka--> 
 </div>
 
